@@ -1,1 +1,2 @@
 this is file in featureb
+this is edit 2
